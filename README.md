@@ -1,7 +1,7 @@
 # Login--template
 this is login template.
 
-this is not responsive page only desktop.
+this is not responsive page, only desktop.
 
 can you make responsive for mobile.
 
